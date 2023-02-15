@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6mZxS/YwRbXlxGqw44BxHZtTJwmb6/ebHoDe4+c+ZWYkdDMYhDM7FVaixj4U7io6LjcDzhnm6uw+SUAipvr2Nw==",
+  "success": true,
+  "projectFilePath": "/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/OMGD API.csproj",
+  "expectedPackageFiles": [
+    "/Users/wilchec/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

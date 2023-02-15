@@ -1,0 +1,33 @@
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/bin/Debug/net6.0/appsettings.Development.json
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/bin/Debug/net6.0/appsettings.json
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/bin/Debug/net6.0/OMGD API.staticwebassets.runtime.json
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/bin/Debug/net6.0/OMGD API
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/bin/Debug/net6.0/OMGD API.deps.json
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/bin/Debug/net6.0/OMGD API.runtimeconfig.json
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/bin/Debug/net6.0/OMGD API.dll
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/bin/Debug/net6.0/OMGD API.pdb
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.csproj.AssemblyReference.cache
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.AssemblyInfoInputs.cache
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.AssemblyInfo.cs
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.csproj.CoreCompileInputs.cache
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.MvcApplicationPartsAssemblyInfo.cache
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.RazorAssemblyInfo.cache
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.RazorAssemblyInfo.cs
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/staticwebassets/msbuild.OMGD API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/staticwebassets/msbuild.build.OMGD API.props
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.OMGD API.props
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.OMGD API.props
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/scopedcss/bundle/OMGD API.styles.css
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/scopedcss/projectbundle/OMGD API.bundle.scp.css
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.csproj.CopyComplete
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.dll
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/refint/OMGD API.dll
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.pdb
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/OMGD API.genruntimeconfig.cache
+/Users/wilchec/GrandCircus/Projects/OMGD API/OMGD API/obj/Debug/net6.0/ref/OMGD API.dll
